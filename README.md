@@ -1,0 +1,1 @@
+Node.js, Docker, Postgres, Typescript, Redis boilarplate project
